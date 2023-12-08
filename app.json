@@ -35,6 +35,12 @@
       "localizedDescription": "\"https://schale.gg/\"で公開されている情報を閲覧できるようにしたアプリです",
       "iconURL": "https://raw.githubusercontent.com/2288-256/2288-256.github.io/main/iconimage.png",
       "tintColor": "1EA5E8",
+      "screenshotURLs": [
+      "https://raw.githubusercontent.com/2288-256/2288-256.github.io/main/image/BlueArchiveDB-App-1.png",
+      "https://raw.githubusercontent.com/2288-256/2288-256.github.io/main/image/BlueArchiveDB-App-2.png",
+      "https://raw.githubusercontent.com/2288-256/2288-256.github.io/main/image/BlueArchiveDB-App-3.png",
+      "https://raw.githubusercontent.com/2288-256/2288-256.github.io/main/image/BlueArchiveDB-App-4.png"
+      ],
       "beta": true
     }
   ],
