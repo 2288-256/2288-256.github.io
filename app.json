@@ -10,16 +10,23 @@
       "subtitle": "ブルーアーカイブの情報をまとめたDBアプリ",
       "versions": [
         {
+          "version": "0.1.3",
+          "date": "2023-12-8",
+          "localizedDescription": "•実装していないボタンを押してもエラーウィンドウが出ない問題を修正しました。\n\n•Full changelog: \n https://github.com/2288-256/BlueArchiveDB/compare/v0.1.2...v0.1.3",
+          "downloadURL": "https://github.com/2288-256/BlueArchiveDB/releases/download/v0.1.3/BlueArchiveDB_0.1.3.ipa",
+          "size": 4811668
+        },
+        {
           "version": "0.1.2",
           "date": "2023-12-8",
-          "localizedDescription": "•画面の向きが縦になってしまう問題を修正\n\n•Full changelog: \n https://github.com/2288-256/BlueArchiveDB/compare/v0.1...v0.1.2",
+          "localizedDescription": "•画面の向きが縦になってしまう問題を修正しました。\n\n•Full changelog: \n https://github.com/2288-256/BlueArchiveDB/compare/v0.1...v0.1.2",
           "downloadURL": "https://github.com/2288-256/BlueArchiveDB/releases/download/v0.1.2/BlueArchiveDB_0.1.2.ipa",
           "size": 4811120
         },
         {
           "version": "0.1",
           "date": "2023-12-8",
-          "localizedDescription": "•生徒データの閲覧機能を追加(基本情報・ボイスのみ)\n\n•Full changelog: \n https://github.com/2288-256/BlueArchiveDB/releases/tag/v0.1",
+          "localizedDescription": "•生徒データの閲覧機能(基本情報・ボイスのみ)を実装しました。\n\n•Full changelog: \n https://github.com/2288-256/BlueArchiveDB/releases/tag/v0.1",
           "downloadURL": "https://github.com/2288-256/BlueArchiveDB/releases/download/v0.1/BlueArchiveDB_0.1.ipa",
           "size": 4811125
         }
@@ -31,6 +38,16 @@
       "beta": true
     }
   ],
-  "news": [],
+  "news": [
+    {
+    "title": "生徒の基本情報・ボイスを聞けるように！",
+    "identifier": "com.github.2288-256.BlueArchiveDB.news.1",
+    "caption": "今回のリリースで生徒データの閲覧ができるようになりました。",
+    "date": "2023-12-8",
+    "tintColor": "1EA5E8",
+    "appID": "com.github.2288-256.BlueArchiveDB",
+    "notify": true
+  }
+  ],
   "userInfo": {}
 }
