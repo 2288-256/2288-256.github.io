@@ -10,6 +10,13 @@
       "subtitle": "ブルーアーカイブの情報をまとめたDBアプリ",
       "versions": [
         {
+          "version": "0.1.1",
+          "date": "2023-12-8",
+          "localizedDescription": "•画面の向きが縦になってしまう問題を修正\n\n•Full changelog: \n https://github.com/2288-256/BlueArchiveDB/compare/v0.1...v0.1.1",
+          "downloadURL": "https://github.com/2288-256/BlueArchiveDB/releases/download/v0.1/BlueArchiveDB_0.1.1.ipa",
+          "size": 4811107
+        },
+        {
           "version": "0.1",
           "date": "2023-12-8",
           "localizedDescription": "•生徒データの閲覧機能を追加(基本情報・ボイスのみ)\n\n•Full changelog: \n https://github.com/2288-256/BlueArchiveDB/releases/tag/v0.1",
@@ -18,7 +25,7 @@
         }
       ],
       "downloadURL": "https://github.com/2288-256/BlueArchiveDB/releases/download/v0.1/BlueArchiveDB_0.1.ipa",
-      "localizedDescription": "\"https://schale.gg/\"で公開されている情報をアプリで閲覧できるようにしたアプリです",
+      "localizedDescription": "\"https://schale.gg/\"で公開されている情報を閲覧できるようにしたアプリです",
       "iconURL": "https://raw.githubusercontent.com/2288-256/2288-256.github.io/main/iconimage.png",
       "tintColor": "1EA5E8",
       "beta": true
