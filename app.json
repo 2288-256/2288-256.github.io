@@ -19,7 +19,7 @@
       ],
       "downloadURL": "https://github.com/2288-256/BlueArchiveDB/releases/download/v0.1/BlueArchiveDB_0.1.ipa",
       "localizedDescription": "\"https://schale.gg/\"で公開されている情報をアプリで閲覧できるようにしたアプリです",
-      "iconURL": "",
+      "iconURL": "https://raw.githubusercontent.com/2288-256/2288-256.github.io/main/iconimage.png",
       "tintColor": "1EA5E8",
       "beta": true
     }
