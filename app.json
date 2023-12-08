@@ -14,7 +14,7 @@
           "date": "2023-12-8",
           "localizedDescription": "•画面の向きが縦になってしまう問題を修正\n\n•Full changelog: \n https://github.com/2288-256/BlueArchiveDB/compare/v0.1...v0.1.2",
           "downloadURL": "https://github.com/2288-256/BlueArchiveDB/releases/download/v0.1.2/BlueArchiveDB_0.1.2.ipa",
-          "size": 4811124
+          "size": 4811120
         },
         {
           "version": "0.1",
