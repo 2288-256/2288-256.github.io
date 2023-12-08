@@ -1,30 +1,27 @@
 {
+  "name": "2288-256 Source",
+  "identifier": "com.github.2288-256.source",
+  "sourceURL": "https://raw.githubusercontent.com/2288-256/2288-256.github.io/main/app.json",
   "apps": [
     {
-      "beta": true,
+      "name": "BlueArchiveDB",
       "bundleIdentifier": "com.github.2288-256.BlueArchiveDB",
       "developerName": "2288-256",
-      "META": { "repoName": "BlueArchiveDB Source" },
-      "contact": {
-          "web": "https://github.com/2288-256/BlueArchiveDB"
-      },
+      "subtitle": "ブルーアーカイブの情報をまとめたDBアプリ",
+      "versions": [
+        {
+          "version": "0.1",
+          "date": "2023-12-8",
+          "localizedDescription": "•生徒データの閲覧機能を追加(基本情報・ボイスのみ)\n\n•Full changelog: \n https://github.com/2288-256/BlueArchiveDB/releases/tag/v0.1",
+          "downloadURL": "https://github.com/2288-256/BlueArchiveDB/releases/download/v0.1/BlueArchiveDB_0.1.ipa",
+          "size": 4811125
+        }
+      ],
       "downloadURL": "https://github.com/2288-256/BlueArchiveDB/releases/download/v0.1/BlueArchiveDB_0.1.ipa",
+      "localizedDescription": "\"https://schale.gg/\"で公開されている情報をアプリで閲覧できるようにしたアプリです",
       "iconURL": "",
-      "localizedDescription": "",
-      "name": "BlueArchiveDB",
-      "screenshotURLs": [],
-      "size": 4811125,
-      "subtitle": "ブルーアーカイブの情報をまとめたアプリ",
-      "tintColor": "1ea5e8",
-      "version": "0.1",
-      "versionDate": "2023-12-8",
-      "versionDescription": "•生徒データの閲覧機能を追加(基本情報・ボイスのみ)\n\n•Full changelog: \n https://github.com/2288-256/BlueArchiveDB/releases/tag/v0.1"
+      "tintColor": "1EA5E8",
+      "beta": true
     }
-  ],
-  "identifier": "com.github.2288-256.source",
-  "name": "2288-256 Source",
-  "sourceURL": "https://raw.githubusercontent.com/2288-256/2288-256.github.io/main/app.json",
-  "website": "https://github.com/2288-256/BlueArchiveDB",
-  "news": [],
-  "userInfo": {}
+  ]
 }
