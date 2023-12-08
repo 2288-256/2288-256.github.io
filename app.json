@@ -3,7 +3,7 @@
     {
       "beta": true,
       "bundleIdentifier": "com.github.2288-256.BlueArchiveDB",
-      "developerName": "2288256",
+      "developerName": "2288-256",
       "META": { "repoName": "BlueArchiveDB Source" },
       "contact": {
           "web": "https://github.com/2288-256/BlueArchiveDB"
@@ -13,17 +13,17 @@
       "localizedDescription": "",
       "name": "BlueArchiveDB",
       "screenshotURLs": [],
-      "size": 115844112,
+      "size": 4811125,
       "subtitle": "ブルーアーカイブの情報をまとめたアプリ",
-      "tintColor": "e81e8a",
+      "tintColor": "1ea5e8",
       "version": "0.1",
       "versionDate": "2023-12-8",
-      "versionDescription": "•生徒データの閲覧機能を追加(基本情報・ボイスのみ)\n\n•Full changelog: \n https://github.com/arichorn/uYouPlusExtra/releases/tag/v18.48.3-3.0.1"
+      "versionDescription": "•生徒データの閲覧機能を追加(基本情報・ボイスのみ)\n\n•Full changelog: \n https://github.com/2288-256/BlueArchiveDB/releases/tag/v0.1"
     }
   ],
-  "identifier": "com.github.2288-256.BlueArchiveDB",
-  "name": "BlueArchiveDB Source",
-  "sourceURL": "https://raw.githubusercontent.com/arichorn/arichorn.github.io/main/apps.json",
+  "identifier": "com.github.2288-256.source",
+  "name": "2288-256 Source",
+  "sourceURL": "https://raw.githubusercontent.com/2288-256/2288-256.github.io/main/app.json",
   "website": "https://github.com/2288-256/BlueArchiveDB",
   "news": [],
   "userInfo": {}
