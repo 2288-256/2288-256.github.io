@@ -27,7 +27,7 @@
           "localizedDescription": "新規実装\n•トップ画面に1週間以内に誕生日を迎える生徒のリスト\n•誕生日を迎えた生徒を表示するウィジェット\n修正\n•キャラの一覧で上部の絞り込みボタンを押した際の描画方法\n\nFull Changelog: https://github.com/2288-256/BlueArchiveDB-App/compare/v0.1.3...v0.1.4",
           "size": 4907889,
           "version": "0.1.4"
-        }
+        },
         {
           "date": "2023-12-08T19:00:00+09:00",
           "downloadURL": "https://github.com/2288-256/BlueArchiveDB/releases/download/v0.1.3/BlueArchiveDB_0.1.3.ipa",
